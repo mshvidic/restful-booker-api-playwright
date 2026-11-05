@@ -88,6 +88,10 @@ npm run allure:open       # opens it
 
 Use `npm run clean` to delete `allure-results`, `allure-report` and `test-results` before a fresh run.
 
+Test results are deployed to github page and also can be accessed after each run on page:
+https://mshvidic.github.io/restful-booker-api-playwright/
+
+
 ## Configuration
 
 | Variable | Default | Purpose |
